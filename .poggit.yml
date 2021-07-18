@@ -9,4 +9,6 @@ projects:
         version: ^2.1.2
       - src: poggit/libasynql/libasynql
         version: ^3.3.1
+    path: ""
+    icon: icon.png
 ...
